@@ -1,6 +1,13 @@
-### Hi there 👋
+### Bonjour, je suis Johann Hospice 💥 Ingénieur spécialisé sur les technologies du cloud ⛅
 
-Find me on [LinkedIn](https://www.linkedin.com/in/johannhospice/)
+Je réalise des logiciels articulés sur trois compétences clés :
+- 👷 Conception, je conceptualise et implémente des infrastructures.
+- 👨‍💻 Programmation, je développe des applications et logiciels du front au back end.
+- 👨‍🎤️ Orchestration, j’applique la méthodologie DevOps afin de garantir la qualité des solutions délivrées.
+
+// N'hésitez pas à me contacter pour des besoins en freelance FullStack, Infra ou DevOps 😁
+
+[LinkedIn](https://www.linkedin.com/in/johannhospice/)
 
 <!--
 **JohannHospice/johannhospice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
