@@ -8,15 +8,15 @@ Je réalise des logiciels articulés sur trois compétences clés :
 
 *N'hésitez pas à me contacter pour des besoins en freelance FullStack, Infra ou DevOps 😁*
 
+
+
+
+<!--
 <p align="left">
   <a href="https://github.com/johannhospice">
     <img alt="JohannHospice's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=johannhospice&theme=monokai-metallian&hide_border=false"/>
   </a>
 </p>
-
-
-
-<!--
 **JohannHospice/johannhospice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
