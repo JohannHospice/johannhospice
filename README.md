@@ -7,7 +7,6 @@ Je réalise des logiciels articulés sur trois compétences clés :
 
 
 *N'hésitez pas à me contacter pour des besoins en freelance FullStack, Infra ou DevOps 😁*
-![image](http://localhost:1234/)
 
 
 
