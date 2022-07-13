@@ -1,4 +1,4 @@
-### Bonjour, je suis Johann Hospice 💥 Ingénieur spécialisé sur les technologies du cloud ⛅
+### Bonjour, je suis Johann Hospice, Ingénieur spécialisé sur les technologies du cloud.
 
 Je réalise des logiciels articulés sur trois compétences clés :
 - 👷 Conception, je conceptualise et implémente des infrastructures.
@@ -6,7 +6,6 @@ Je réalise des logiciels articulés sur trois compétences clés :
 - 👨‍🎤️ Orchestration, j’applique la méthodologie DevOps afin de garantir la qualité des solutions délivrées.
 
 
-*N'hésitez pas à me contacter pour des besoins en freelance FullStack, Infra ou DevOps 😁*
 
 ---
 
