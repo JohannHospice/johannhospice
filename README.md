@@ -9,7 +9,7 @@ Je réalise des logiciels articulés sur trois compétences clés :
 
 ---
 
-*[ Gérez votre activité de freelance en toute simplicité avec Copilote 🦝](https://copilote.web.app)*
+*[ Copilote : Gérez votre activité de freelance en toute simplicité 🦝](https://copilote.web.app)*
 
 
 *[ Voir la stratégie d'investissement en cryptomonnaies automatisée 🔮](https://pixou-dev.web.app/strategies)*
