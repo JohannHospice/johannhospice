@@ -8,12 +8,13 @@ Freelance | Expert AWS & GCP | React, Node.js, Python | DevOps
 
 
 ---
+
 *[ CoachAI, boostez votre forme grâce à votre expert fitness sur mesure 💪🤖](https://coachai-johannhospice.vercel.app/)*
 
-*[ Copilote, l'application qui aide les freelances maintenir le cap 🦝](https://copilote.web.app)*
+*[ Copilote, l'application qui aide les freelances maintenir le cap 🚀💼](https://copilote.web.app)*
 
+*[ Pixou, La stratégie d'investissement en cryptomonnaies automatisée 📈🔮](https://pixou-dev.web.app/strategies)*
 
-*[ Pixou, La stratégie d'investissement en cryptomonnaies automatisée 🔮](https://pixou-dev.web.app/strategies)*
 
 <!--
 <p align="left">
