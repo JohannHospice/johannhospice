@@ -8,7 +8,7 @@ Je réalise des logiciels articulés sur trois compétences clés :
 
 
 ---
-*[ CoachAI, boostez votre forme grâce à votre expert fitness sur mesure ](https://coachai-johannhospice.vercel.app/)*
+*[ CoachAI, boostez votre forme grâce à votre expert fitness sur mesure 💪🤖](https://coachai-johannhospice.vercel.app/)*
 
 *[ Copilote, l'application qui aide les freelances maintenir le cap 🦝](https://copilote.web.app)*
 
