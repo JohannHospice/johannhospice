@@ -1,10 +1,10 @@
-### Bonjour, je suis Johann Hospice, Ingénieur spécialisé sur les technologies du cloud.
+Freelance | Expert AWS & GCP | React, Node.js, Python | DevOps
 
-Je réalise des logiciels articulés sur trois compétences clés :
-- 👷 Conception, je conceptualise et implémente des infrastructures.
-- 👨‍💻 Programmation, je développe des applications et logiciels du front au back end.
-- 👨‍🎤️ Orchestration, j’applique la méthodologie DevOps afin de garantir la qualité des solutions délivrées.
+⚡ Passionné par les technologies du cloud et le développement FullStack, je suis ingénieur freelance spécialisé en AWS, GCP, React, Node.js et Python. 
 
+🔥 J'accompagne mes clients dans la conception, le développement et l'orchestration de leurs projets, en adoptant une approche DevOps pour garantir la qualité des solutions délivrées.
+
+📩 N'hésitez pas à me contacter pour échanger d'une potentielle collaboration.
 
 
 ---
